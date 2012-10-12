@@ -15,6 +15,7 @@ sqlplus baninst1@DEVL @install
 Password: XXXXXXX 
 
 Create following Web Tailor Parameters on SSB:
+
 LMS_ACT  87654
 LMS_AT	XXXXXXXXXXXXXXXXXXXX
 LMS_GS	0
