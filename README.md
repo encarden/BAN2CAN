@@ -18,9 +18,10 @@ Create following Web Tailor Parameters on SSB:
 LMS_ACT  87654
 LMS_AT	XXXXXXXXXXXXXXXXXXXX
 LMS_GS	0
-LMS_URL	https://nmsu.test.instructure.com
+LMS_URL	https://your.test.instructure.com
  
 where
+
 LMS_ACT is your account number
 LMS_AT is your access token
 LMS_GS is the time in minutes between sync processes, we use 5 in production and for test you can use 0.
